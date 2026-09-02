@@ -8,3 +8,7 @@ This project is an e-commerce REST API.
 - Order management
 - User management
 - REST API endpoints
+
+## GitHub Actions Practice
+
+This project uses GitHub Actions to automatically run tests when changes are submitted.
